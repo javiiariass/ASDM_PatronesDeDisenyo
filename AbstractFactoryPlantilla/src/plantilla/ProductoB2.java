@@ -17,7 +17,7 @@ public class ProductoB2 extends ProductoAbstractoB{
     
     @Override
     public void mostrarCaracteristicas(){
-        System.out.println("Producto tipo B2: " + modelo + "de estilo " + estilo + 
+        System.out.println("Producto tipo B2: " + modelo + " de estilo " + estilo + 
                 " del año " + anyo + " con precio " + precio + " millones");
     }
 }
