@@ -2,4 +2,6 @@
 Patrones singleton
 
 ## 27/03
-Abstract
+### Abstract
+- plantilla
+- ejemplo diapositivas -> Hay que terminar de implementarlo
