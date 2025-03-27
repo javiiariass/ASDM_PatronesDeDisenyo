@@ -7,15 +7,15 @@
  *
  * @author javiiariass
  */
-public class ProductoA1 extends ProductoAbstractoA{
+public class ProductoA2 extends ProductoAbstractoA{
     
-    public ProductoA1(String modelo, String estilo, int anyo, double precio){
+    public ProductoA2(String modelo, String estilo, int anyo, double precio){
         super(modelo, estilo, anyo,precio);
     }
     
     @Override
     public void mostrarCaracteristicas(){
-        System.out.println("Producto tipo A1: " + modelo + "de estilo " + estilo + 
+        System.out.println("Producto tipo A2: " + modelo + "de estilo " + estilo + 
                 " del año " + anyo + " sin precio");
     }
 }
