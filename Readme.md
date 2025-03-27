@@ -1,9 +1,8 @@
 ## 21/03
 ### Singleton
-Patrones singleton
-[Plantilla Singleton](Singleton/src/singleton)
-[SingletonBD](Singleton_BD/src/singleton_bd)
-[Singleton marcianos](SingletonMarcianos/src/singletonmarcianos)
+- [Plantilla Singleton](Singleton/src/singleton)
+- [SingletonBD](Singleton_BD/src/singleton_bd)
+- [Singleton marcianos](SingletonMarcianos/src/singletonmarcianos)
 
 ## 27/03
 ### Abstract
